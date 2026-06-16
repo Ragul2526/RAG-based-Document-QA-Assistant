@@ -58,10 +58,10 @@ A 1.5B model has never seen your private PDF - ask it directly and it correctly 
 
 ## Running it yourself
 
-### Option 1 — Colab notebook
+### Option 1 : Colab notebook
 Open `notebook/RAG_Document_QA.ipynb` in Google Colab, set the runtime to a GPU (Runtime -> Change runtime type -> T4 GPU), and run cells top to bottom. Upload your own PDF when prompted in Step 1.
 
-### Option 2 — Local / Hugging Face Space
+### Option 2 : Local / Hugging Face Space
 ```bash
 pip install -r requirements.txt
 python app.py
