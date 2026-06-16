@@ -4,7 +4,8 @@ A simple Retrieval-Augmented Generation (RAG) pipeline that answers questions ab
 
 **🚀 Live demo:** [Try it on Hugging Face Spaces](https://huggingface.co/spaces/roy2526/rag-document-qa)
 
-![Demo screenshot](<img width="1526" height="880" alt="hf_output" src="https://github.com/user-attachments/assets/ec2af623-6349-4f1f-b9f3-a5130cde5979" />)
+![Demo screenshot](<img width="1526" height="880" alt="hf_output" src="https://github.com/user-attachments/assets/6eb4119e-651d-45d8-9d24-c5a1caeab6ce" />
+)
 
 ## What this is
 
